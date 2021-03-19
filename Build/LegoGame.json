@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Unity Project",
+"productVersion": "1.1.4",
+"dataUrl": "LegoGame.data.unityweb",
+"wasmCodeUrl": "LegoGame.wasm.code.unityweb",
+"wasmFrameworkUrl": "LegoGame.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.20f1"
+}
